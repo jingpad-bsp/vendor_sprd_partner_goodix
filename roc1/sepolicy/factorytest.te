@@ -1,0 +1,2 @@
+#add for UFS
+allow factorytest misc_blk_device:blk_file { read write getattr open ioctl };
